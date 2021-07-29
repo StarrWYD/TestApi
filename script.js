@@ -1,1 +1,1 @@
-var request = require("request");
+import request from "request"
